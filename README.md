@@ -306,6 +306,7 @@ This section is under review and the rest of entries will be added to the table 
 ## Frameworks
 
 - [A Framework for Ethical Decision Making](https://www.scu.edu/ethics/ethics-resources/a-framework-for-ethical-decision-making/) `Markkula Center for Applied Ethics`
+- [CausalLayer Verifier](https://github.com/smq9sn5jck-coder/causallayer-verifier) `Open Source` - Independent verifier and integration spec for a deterministic, cryptographically-anchored post-incident causal-attribution engine for AI failures. Includes a [public anchor log](https://github.com/smq9sn5jck-coder/causallayer-anchor-log) of signed Merkle roots witnessed by OpenTimestamps.
 - [Data Ethics Canvas](https://theodi.org/insights/tools/the-data-ethics-canvas-2021/) `Open Data Institute`
 - [Deon](https://deon.drivendata.org) `Python` `Drivendata`
 - [Ethics & Algorithms Toolkit](http://ethicstoolkit.ai)
